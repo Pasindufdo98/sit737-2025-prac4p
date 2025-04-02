@@ -1,0 +1,22 @@
+{"level":"info","message":"Received parameters: 10, 5 for addition","service":"addition-service"}
+{"level":"info","message":"Received parameters: 100, 5 for subtraction","service":"subtraction-service"}
+{"level":"info","message":"Received parameters: 100, 5 for multiplication","service":"multiplication-service"}
+{"level":"info","message":"Received parameters: 100, 5 for division","service":"division-service"}
+{"level":"error","message":"Invalid input parameters","service":"division-service"}
+{"level":"error","message":"Invalid input: Both parameters must be valid numbers","service":"division-service"}
+{"level":"error","message":"Invalid input parameters","service":"division-service"}
+{"level":"error","message":"Invalid input: Both parameters must be valid numbers","service":"division-service"}
+{"level":"error","message":"Invalid input parameters","service":"division-service"}
+{"level":"error","message":"Invalid input: Both parameters must be valid numbers","service":"division-service"}
+{"level":"error","message":"Invalid input parameters","service":"division-service"}
+{"level":"error","message":"Invalid input: Both parameters must be valid numbers","service":"division-service"}
+{"level":"error","message":"Invalid input parameters","service":"division-service"}
+{"level":"error","message":"Invalid input: Both parameters must be valid numbers","service":"division-service"}
+{"level":"error","message":"Invalid input parameters","service":"division-service"}
+{"level":"error","message":"Invalid input: Both parameters must be valid numbers","service":"division-service"}
+{"level":"error","message":"Invalid input parameters","service":"division-service"}
+{"level":"error","message":"Invalid input: Both parameters must be valid numbers","service":"division-service"}
+{"level":"error","message":"Invalid input parameters","service":"division-service"}
+{"level":"error","message":"Invalid input: Both parameters must be valid numbers","service":"division-service"}
+{"level":"error","message":"Invalid input parameters","service":"division-service"}
+{"level":"error","message":"Invalid input: Both parameters must be valid numbers","service":"division-service"}
